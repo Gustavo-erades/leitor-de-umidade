@@ -7,7 +7,7 @@
  ### OBS: 
   Colocar um display para mostrar a porcentagem de umidade no solo!
  ### Componentes:
- ###. placa arduino;
+ #### . placa arduino;
   . 4 leds;
   . 4 resistores de 220 ohms;
   . Uma protoboard;
