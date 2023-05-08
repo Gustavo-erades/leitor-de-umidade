@@ -8,20 +8,20 @@
   Colocar um display para mostrar a porcentagem de umidade no solo!
  ### Componentes:
  #### . placa arduino;
-  . 4 leds;
-  . 4 resistores de 220 ohms;
-  . Uma protoboard;
-  . Fios jumpers (2 pontas macho e 3 jumpers macho-fêmea para o leitor);
-  . Um leitor de umidade;
-  . Terra;
-  *Para o uso do motor de irrigação*
-  . placa arduino;
-  . esp8266;
-  . relês;
-  . fios jumpers macho-fêmea;
-  . motores;
-  . água;
-  . criatividade.
+ ####  . 4 leds;
+ ####  . 4 resistores de 220 ohms;
+ ####  . Uma protoboard;
+ ####  . Fios jumpers (2 pontas macho e 3 jumpers macho-fêmea para o leitor);
+ ####  . Um leitor de umidade;
+ ####  . Terra;
+ ### *Para o uso do motor de irrigação*
+ #### . placa arduino;
+ #### . esp8266;
+ #### . relês;
+ #### . fios jumpers macho-fêmea;
+ #### . motores;
+ #### . água;
+ #### . criatividade.
  ### OBS:
   projeto feito durante estudos de IOT, Arduino e afins. Colaboração do professor de matemática do colégio CEPI de Santo Antônio-Goiás (irrigador)
   
