@@ -23,6 +23,6 @@
  #### . água;
  #### . criatividade.
  ### OBS:
-  projeto feito durante estudos de IOT, Arduino e afins. Colaboração do professor de matemática do colégio CEPI de Santo Antônio-Goiás (irrigador)
+  projeto feito durante estudos de IOT, Arduino e afins. Colaboração do professor de matemática do colégio CEPI de Santo Antônio-Goiás (irrigador, uso do serial e simplificação do projeto)
   
   
