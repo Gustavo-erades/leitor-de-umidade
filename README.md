@@ -5,7 +5,7 @@
  (projeto um pouco mais complexo, não de autoria minha, com placa arduino Uno, Esp8266, 4 relês e um motor caseiro)
 ### .O serial é usado para mostrar o quão  irrigado está. Mais próximo de 1023 é mais seco, e  mais distante significa mais molhado.
  ### OBS: 
-  Colocar um display para mostrar a porcentagem de umidade no solo!
+   O display serve apenas para mostrar o nível de secura e se está "MUITO SECO", "POUCO MOLHADO" ou "MUITO MOLHADO".
  ### Componentes:
  #### . placa arduino;
  ####  . 4 leds;
@@ -13,6 +13,7 @@
  ####  . Uma protoboard;
  ####  . Fios jumpers (2 pontas macho e 3 jumpers macho-fêmea para o leitor);
  ####  . Um leitor de umidade;
+ ####  . Display (foi usado um OLED nesse caso);
  ####  . Terra;
  ### *Para o uso do motor de irrigação*
  #### . placa arduino;
@@ -23,6 +24,6 @@
  #### . água;
  #### . criatividade.
  ### OBS:
-  projeto feito durante estudos de IOT, Arduino e afins. Colaboração do professor de matemática do colégio CEPI de Santo Antônio-Goiás (irrigador, uso do serial e simplificação do projeto)
+  projeto feito durante estudos de IOT, Arduino e afins. Colaboração do professor de matemática do colégio CEPI de Santo Antônio-Goiás (irrigador, uso do serial e simplificação do projeto).
   
   
